@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/timetrackingdashboardchallenge-vc8TDbkpP)
 - Live Site URL: [Live Site](https://steffanvii.github.io/TimeTrackingDashboard_Challenge/)
 
 ## My process
