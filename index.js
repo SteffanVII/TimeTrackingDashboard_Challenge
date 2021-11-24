@@ -5,6 +5,8 @@ timeframes_buttons.forEach(element => {
     element.addEventListener( 'click', getData );
 });
 
+timeframes_buttons[1].click();
+
 function getData()
 {
     if ( prev_timeframe !== this.value )
